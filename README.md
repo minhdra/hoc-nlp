@@ -6,7 +6,7 @@ Mỗi bài là một notebook có giải thích khái niệm, ví dụ chạy đ
 | Thư mục | Nội dung | Trạng thái |
 |---|---|---|
 | `00-kiem-tra-moi-truong.ipynb` | Kiểm tra GPU, chạy thử PhoBERT | ✅ |
-| `01-co-dien/` | Tiền xử lý, TF-IDF, phân loại văn bản | 🚧 bài 1 xong |
+| `01-co-dien/` | Tiền xử lý, TF-IDF (bài 1); phân loại cảm xúc, đánh giá mô hình (bài 2) | 🚧 bài 1–2 xong |
 | `02-deep-learning/` | Embedding, RNN/LSTM, attention | ⏳ |
 | `03-transformer/` | Transformer, fine-tune PhoBERT | ⏳ |
 | `04-llm-rag/` | Prompt, RAG, LoRA | ⏳ |
